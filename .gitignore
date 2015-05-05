@@ -1,0 +1,14 @@
+*.class
+/.settings/
+.classpath
+.project
+
+# Package Files #
+*.war
+*.ear
+/target/
+/test-output/
+/logs/
+/ATU Reports/
+/javadoc/
+
